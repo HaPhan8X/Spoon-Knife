@@ -1,6 +1,0 @@
-this is a test file
-<<<<<<< HEAD
-This text will be conficted
-=======
-I make a change for test text
->>>>>>> origin/master
